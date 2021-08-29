@@ -1,0 +1,1 @@
+char *alloc(int);
